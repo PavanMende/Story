@@ -1,0 +1,13 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is D29F-C63A
+
+ Directory of C:\Users\pavan\OneDrive - CVR College of Engineering\Desktop\story
+
+11-08-2024  18:13    <DIR>          .
+10-08-2024  18:54    <DIR>          ..
+10-08-2024  17:48                13 chap1.txt
+10-08-2024  18:06                21 chap2.txt
+11-08-2024  18:13                20 chap3.txt
+11-08-2024  18:14                 0 chp4.txt
+               4 File(s)             54 bytes
+               2 Dir(s)  418,805,772,288 bytes free
